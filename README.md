@@ -11,4 +11,7 @@ This tool can be used to evaluate emotions shared via instant messaging daily. W
 
 Further additions to the project may include scraping publicly available websites (Twitter, Instagram, Linkedin etc.) to evaluate how their emotions have changed over the past months.
 
-Please use the notebook file (and not the .py file) and pull the xlsx as well.
+Please use the notebook file (and not the .py file) and pull the .xlsx as well.
+
+
+See https://www.loom.com/share/63d3ca5111224cb4af3fd59f78955db0 for a demonstration of the project
